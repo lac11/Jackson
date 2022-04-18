@@ -55,9 +55,7 @@ namespace Jackson
                         Walk(jac4, space += " ");
                     }
                     else
-                    {
                         return;
-                    }
                 }
             }
 
